@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 1
+implicitly_wait: 3
+
+username: diankaBrown
+password: 2fd1fd9cb8
